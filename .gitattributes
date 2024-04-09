@@ -1,8 +1,1 @@
-Test_results filter=lfs diff=lfs merge=lfs -text
-berttwitter.csv filter=lfs diff=lfs merge=lfs -text
-glove200.csv filter=lfs diff=lfs merge=lfs -text
-openai.csv filter=lfs diff=lfs merge=lfs -text
-tfidf.csv filter=lfs diff=lfs merge=lfs -text
-1024elmo.csv filter=lfs diff=lfs merge=lfs -text
-ModelData.csv filter=lfs diff=lfs merge=lfs -text
-SA.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
