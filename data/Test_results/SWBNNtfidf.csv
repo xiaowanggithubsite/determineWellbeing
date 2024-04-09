@@ -1,0 +1,11 @@
+﻿NN_R2,NN_RMSE,NN_parameter
+0.3692560006613519,0.40009580280102186,"{'alpha': 0.03162277660168379, 'batch_size': 32, 'hidden_layer_sizes': 2}"
+0.3497859962604647,0.40570034221010554,"{'alpha': 0.1, 'batch_size': 32, 'hidden_layer_sizes': 6}"
+0.35052057185619023,0.40817878424444354,"{'alpha': 0.1, 'batch_size': 32, 'hidden_layer_sizes': 18}"
+0.34655870096201113,0.404496707546448,"{'alpha': 0.1, 'batch_size': 32, 'hidden_layer_sizes': 6}"
+0.36141400164351367,0.4038966471622786,"{'alpha': 0.03162277660168379, 'batch_size': 32, 'hidden_layer_sizes': 2}"
+0.3329784148414403,0.40952373991393987,"{'alpha': 0.03162277660168379, 'batch_size': 32, 'hidden_layer_sizes': 2}"
+0.3284397168936495,0.4141343818067883,"{'alpha': 0.1, 'batch_size': 32, 'hidden_layer_sizes': 2}"
+0.3631949317471129,0.40006229078599836,"{'alpha': 0.1, 'batch_size': 32, 'hidden_layer_sizes': 14}"
+0.375789194083072,0.4015766169936463,"{'alpha': 0.1, 'batch_size': 32, 'hidden_layer_sizes': 14}"
+0.34578704690402917,0.4031267254217892,"{'alpha': 0.03162277660168379, 'batch_size': 32, 'hidden_layer_sizes': 2}"
