@@ -1,15 +1,3 @@
-﻿,0
-retweet_count,3
-favorite_count,4
-hour,7
-url_count,1
-mentions_count,10
-questionmark_count,2
-exclamationmark_count,9
-points_count,11
-uppercase_ratio,8
-hashtag_count,6
-is_quote_status,12
-possibly_sensitive,14
-is_reply,13
-textual_representation,5
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d1dee4339dafe8aca1fccfb86a731fccedc4a877066899732cdd7781fa3b6e3
+size 249
